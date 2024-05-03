@@ -140,7 +140,9 @@ menu:
 下面列举了在不同 hexo 主题下使用插件后的渲染结果，仅供参考。
 如果您使用了本插件，也欢迎在 README.md 中提 PR 将您的网站添加进来，供后人参考。
 ### [hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly)
-* https://lesslsmore.github.io/movies/
+* https://lesslsmore.github.io/movies/#
+### [hexo-theme-icarus](https://github.com/ppoffice/hexo-theme-icarus)
+* https://blog.xiang578.com/books/index.html
 ## 免责声明
 
 本项目仅供学习交流使用，不得用于任何商业用途。
